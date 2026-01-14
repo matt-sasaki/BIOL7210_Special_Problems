@@ -1,19 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "BIOL7210_Special_Problems"
+  title: "BIOL.7210 - Special Problems in Biology (Spring 2026)"
   navbar:
+    search: false
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: schedule.qmd
+        text: Schedule
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: yeti
     toc: true
+
 
 editor: visual
 
