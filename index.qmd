@@ -1,5 +1,15 @@
 ---
-title: "BIOL7210_Special_Problems"
+title: "BIOL.7210 - Special Problems in Biology"
 ---
 
-General description
+There are three sections of Special Problems running this semester:
+
+1.  Setting yourself up for experimental success
+2.  Application and interpretation of linear mixed effects models
+3.  Co-Evolutionary Dynamics
+
+"Setting yourself up for experimental success” will focus on some of the fundamental skills needed by anyone doing empirical research. We will discuss key aspects of a rigorous **experimental design**, how to set up a **digital infrastructure for a project**, and some basic principles of **statistical analyses**. This section will end with a session for **presenting and brainstorming experimental designs** for your own work (or at least something related to your research interests).
+
+"Application and interpretation of linear mixed effects models” will focus on how experimental data is analyzed using mixed effects models in R. We will cover some of the **conceptual basis for these models**, but will focus on the more practical applied aspects of how these models are used and interpreted. This section will end with a session for presentations on **examples of mixed effects models from the literature**.
+
+Dr. Nikea Ulrich is running the third section - please reach out directly to her if you're interested in that section as well.

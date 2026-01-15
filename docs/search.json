@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BIOL7210_Special_Problems",
+    "title": "BIOL.7210 - Special Problems in Biology",
     "section": "",
-    "text": "General description"
+    "text": "There are three sections of Special Problems running this semester:\n\nSetting yourself up for experimental success\nApplication and interpretation of linear mixed effects models\nCo-Evolutionary Dynamics\n\n“Setting yourself up for experimental success” will focus on some of the fundamental skills needed by anyone doing empirical research. We will discuss key aspects of a rigorous experimental design, how to set up a digital infrastructure for a project, and some basic principles of statistical analyses. This section will end with a session for presenting and brainstorming experimental designs for your own work (or at least something related to your research interests).\n“Application and interpretation of linear mixed effects models” will focus on how experimental data is analyzed using mixed effects models in R. We will cover some of the conceptual basis for these models, but will focus on the more practical applied aspects of how these models are used and interpreted. This section will end with a session for presentations on examples of mixed effects models from the literature.\nDr. Nikea Ulrich is running the third section - please reach out directly to her if you’re interested in that section as well."
   },
   {
     "objectID": "about.html",
@@ -18,13 +18,48 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Table of schedule, meeting dates, topics, and readings."
+    "text": "This course will run Tuesdays from 12:30-3pm in Olsen Hall Rm 234. Because of holidays / Monday schedules, however, we won’t be meeting every week - see the schedule below for meeting dates and topics.\n\n\n\nSection\nDate\nTopic\nReadings\n\n\n\n\nExp. Success\nJanuary 27th\nExperimental Design\n\nPaper 1 - Cressman & Sharp 2022 (Stats Plans)\nPaper 2 - Marshall 2024 (Experimental Design)\n\n\n\nExp. Success\nFebruary 3rd\nData Management\n\nPaper 1 - Broman & Woo 2018 (Data in Spreadsheets)\nPaper 2 - Wickham 2014 (Tidy Data)\nArticle - Project Folders in R\nChapter - Frank et al. 2025 (Project Management)\n\n\n\nExp. Success\nFebruary 10th\nPrinciples of Statistics\n\nPaper 1 - Ho et al. 2019 (Estimation Plots)\nPaper 2 - Halsey 2025 (Lack of Effects)\nPaper 3 - Zuur et al. 2010 (Data Exploration)\n\n\n\nExp. Success\nFebruary 17th\nMonday Schedule - No Meeting\n\n\n\nExp. Success\nFebruary 24th\nPresentations / Brainstorming\n\nAssignment\n\n\n\nMixed Effects Models\nMarch 3rd\nMixed Effects Models\n\nPaper 1 - Harrison et al. 2018 (Mixed Effects Models)\nPaper 2 - Silk et al. 2020 (Perils and Pitfalls)\nPaper 3 - Arnqvist 2020 (Degrees of Freedom)\n\n\n\nMixed Effects Models\nMarch 10th\nSpring Break - No Meeting\nInstall R: https://cloud.r-project.org\nInstall RStudio: https://posit.co/download/rstudio-desktop\n\n\nMixed Effects Models\nMarch 17th\nMixed Effects Models in R\n\nData set:\n\n\n\nMixed Effects Models\nMarch 24th\nModel Interpretation\n\n\n\nMixed Effects Models\nMarch 31st\nPresentations\n\nAssignment"
   },
   {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Info on the syllabus"
+    "text": "Course Number\nBIOL 7210\n\n\nCourse Title\nSpecial Problems in Biology\n\n\nCredits\n1-2 Credits\n\n\nSchedule\nTuesdays 12:30-3:00 PM\n\n\nRoom\nOLS 234\n\n\nInstructor\nMatthew Sasaki\n\n\nOffice Hours\nBy Appointment\n\n\nLocation for office hours\nOlsen 205\n\n\nEmail\nMatthew_Sasaki@uml.edu"
+  },
+  {
+    "objectID": "syllabus.html#university-resources",
+    "href": "syllabus.html#university-resources",
+    "title": "Syllabus",
+    "section": "University Resources",
+    "text": "University Resources\nStudent Mental Health and Well-being\nYour personal health and well-being are important to all of us at the university. I’m available to talk about your stresses or concerns related to your coursework in my class.\nHere are some resources to support your well-being:\n\n\n\n\n\n\n\n\nService/Office\nDescription\nContact Info\n\n\nCounseling Services\nProvides crisis intervention, assessment, referrals, short term individual counseling and group therapy.\n(978) 934-6800\n\n\nUMatter2\nUniversity-wide initiative to support students and promote mental health. Includes access to Togetherall peer-to-peer platform.\n(978) 934-6671\n\n\nCLASS Advising\nProvides advising services including goal setting, course selection, SIS functions, changing majors/minors and course deletions.\n(978) 934-2936\nAdvisement@uml.edu\n\n\nOffice of Student Life & Well-being\nAdvances holistic student success through health-promoting actions and collaboration into campus culture.\n(978) 934-4342\nWellbeing@uml.edu\n\n\n\nDisability Services\nIf you are registered with Disability Services and will require course accommodations, please notify me via the Accommodate request process as soon as possible so that we might make appropriate arrangements. It is important that we connect to discuss the logistics of your accommodations; please speak to me during office hours or privately after class as I respect and want to protect your privacy. If you need further information or need to register for academic accommodations, please visit the Disability Services Website.\nInclusion and Classroom Community Standards\nUMass Lowell - and your professor - value the many forms of human experiences and backgrounds. Enrich yourself by practicing respect in your interactions, and enrich one another by sharing your point of view, knowing that differences will be respected, appreciated, and recognized as a source of strength.\nThe Office of Multicultural Affairs (OMA) supports and advocates for students while leading programs, workshops, and events that foster understanding, equity, and belonging across campus. Students are encouraged to connect with OMA staff for support, to learn about cultural and identity-based student organizations, and to participate in community-building opportunities. Contact (978) 934-4336 or Multicultural_Affairs@uml.edu\nAcademic Integrity Policy\nAll students are advised that there is a University policy regarding academic integrity. Academic honesty is essential to maintaining trust in the learning environment and ensuring that all students are evaluated fairly. Students are responsible for the honest completion and representation of their work, and academic dishonesty in any form will not be tolerated. Acts such as plagiarism, cheating, fabrication, or facilitating dishonesty undermine the integrity of the academic community and may result in disciplinary action, up to and including failure of the assignment or course, and referral to the provost’s office and suspension or dismissal in the case of multiple infractions.\nWe prioritize academic integrity and the authentic demonstration of students’ knowledge and skills. Consequently, the use of Artificial Intelligence (AI) tools, including but not limited to generative technologies and similar platforms, is strictly prohibited in completing any coursework, assignments, quizzes, exams or any other form of assessment in this course.\nViolations of this policy will be considered academic misconduct and will be subject to disciplinary actions in line with the university’s Academic Integrity procedures.\nThis approach is taken to maintain a fair and equitable learning environment and to encourage the development of critical thinking, problem-solving and academic writing skills without reliance on AI-generated content.\nCell Phones and Other Devices\nCell phone, tablet, and laptop usage in this class is permitted, so long as it course related and does not interfere with other students’ ability to engage in the course activities.\nUniversity Privacy Statement\nUMass Lowell recognizes the importance of mutual trust between students and faculty. Massachusetts is a two-party consent state, which means it is illegal to record someone without their permission. Recordings of classroom lectures are the intellectual property of the instructor. Instructors have the right to prohibit audio and video recording of their lectures, unless the requesting student is registered with Disabilities Services and recording of class sessions is an approved accommodation. In addition, sharing or selling recordings of classroom activities, discussions or lectures with any other person or medium without permission of the instructor is prohibited, and may result in sanctions for academic dishonesty or referral to the dean’s or provost’s office."
+  },
+  {
+    "objectID": "syllabus.html#course-expectations",
+    "href": "syllabus.html#course-expectations",
+    "title": "Syllabus",
+    "section": "Course Expectations",
+    "text": "Course Expectations\nI expect you to come prepared to discuss the readings. Paper discussions will ideally be largely student-driven, with my role being more to provide guidance, context, and clarifications. I recommend you come prepared to discuss the content of the papers, including questions and disagreements with the material. I also recommend you spend time reflecting on if/how the subject matter relates to your own work.\nThese mini-courses should be heavily discussion-based. I expect you all to participate during discussions - I will not be keeping a tally of how often you speak up, but you should make a good faith effort to contribute as much as possible. As mentioned above, these contributions may include questions, opinions, summaries, etc.\nI expect everyone to be respectful during discussions. Try to be aware of how you are engaging during discussions - avoid talking over other people and monopolizing the conversation.\nMany of the papers may be from outside your area of study - please come at these with an open mind. As some of you may know, my background is in ecology and evolution. The papers reflect this. While the exact methods, techniques, and approaches we use to wrangle with our data may differ from what is standard in other disciplines (especially as we start getting into the statistical components of these mini-courses), part of the critical thinking exercise of this course will be to find the areas of overlap. That being said, places where the disciplines don’t overlap provide opportunities to think about mechanistic or structural differences between fields - these discussions can often be interesting and enlightening, and I encourage you not to shy away from these."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\nCourse grades are based entirely on active participation during meetings. Active participation may look different for each of you - but at a minimum, I expect you to come prepared (i.e. having read and reflected on the assigned readings) and participate in the discussions. There will be no graded assignments, quizzes, or exams."
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nThese mini-courses provide an opportunity to explore a topic. Given the short duration and broad scope, they can only serve as an introduction. Nonetheless, my goal is to provide enough context for you to think critically about if/how these concepts, practices, techniques, etc. might be applied to your own work."
+  },
+  {
+    "objectID": "syllabus.html#absence-policy",
+    "href": "syllabus.html#absence-policy",
+    "title": "Syllabus",
+    "section": "Absence Policy",
+    "text": "Absence Policy\nPlease let me know as far in advance as possible if you are going to miss a meeting. Virtual participation (i.e. via Zoom) will not be regularly available. An excused absence will not negatively affect your grade, but if you are going to miss more than one session, I suggest you consider dropping the course."
   }
 ]

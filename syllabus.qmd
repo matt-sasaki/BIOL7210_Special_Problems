@@ -2,4 +2,98 @@
 title: "Syllabus"
 ---
 
-Info on the syllabus
++---------------------------+-----------------------------+
+| Course Number             | BIOL 7210                   |
++---------------------------+-----------------------------+
+| Course Title              | Special Problems in Biology |
++---------------------------+-----------------------------+
+| Credits                   | 1-2 Credits                 |
++---------------------------+-----------------------------+
+| Schedule                  | Tuesdays 12:30-3:00 PM      |
++---------------------------+-----------------------------+
+| Room                      | OLS 234                     |
++---------------------------+-----------------------------+
+| Instructor                | Matthew Sasaki              |
++---------------------------+-----------------------------+
+| Office Hours              | By Appointment              |
++---------------------------+-----------------------------+
+| Location for office hours | Olsen 205                   |
++---------------------------+-----------------------------+
+| Email                     | Matthew_Sasaki\@uml.edu     |
++---------------------------+-----------------------------+
+
+#  
+
+## Course Description 
+
+These mini-courses provide an opportunity to explore a topic. Given the short duration and broad scope, they can only serve as an introduction. Nonetheless, my goal is to provide enough context for you to think critically about if/how these concepts, practices, techniques, etc. might be applied to your own work.
+
+## Course Expectations 
+
+I expect you to come prepared to discuss the readings. Paper discussions will ideally be largely student-driven, with my role being more to provide guidance, context, and clarifications. I recommend you come prepared to discuss the content of the papers, including questions and disagreements with the material. I also recommend you spend time reflecting on if/how the subject matter relates to your own work.
+
+These mini-courses should be heavily discussion-based. I expect you all to participate during discussions - I will not be keeping a tally of how often you speak up, but you should make a good faith effort to contribute as much as possible. As mentioned above, these contributions may include questions, opinions, summaries, etc.
+
+I expect everyone to be respectful during discussions. Try to be aware of how you are engaging during discussions - avoid talking over other people and monopolizing the conversation.
+
+Many of the papers may be from outside your area of study - please come at these with an open mind. As some of you may know, my background is in ecology and evolution. The papers reflect this. While the exact methods, techniques, and approaches we use to wrangle with our data may differ from what is standard in other disciplines (especially as we start getting into the statistical components of these mini-courses), part of the critical thinking exercise of this course will be to find the areas of overlap. That being said, places where the disciplines don't overlap provide opportunities to think about mechanistic or structural differences between fields - these discussions can often be interesting and enlightening, and I encourage you not to shy away from these.
+
+## Absence Policy
+
+Please let me know as far in advance as possible if you are going to miss a meeting. Virtual participation (i.e. via Zoom) will **not** be regularly available. An excused absence will not negatively affect your grade, but if you are going to miss more than one session, I suggest you consider dropping the course.
+
+## Grading
+
+Course grades are based entirely on active participation during meetings. Active participation may look different for each of you - but at a minimum, I expect you to come prepared (i.e. having read and reflected on the assigned readings) and participate in the discussions. There will be no graded assignments, quizzes, or exams.
+
+## University Resources
+
+**Student Mental Health and Well-being**
+
+Your personal health and well-being are important to all of us at the university. I’m available to talk about your stresses or concerns related to your coursework in my class.
+
+Here are some resources to support your well-being:
+
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| **Service/Office**                  | **Description**                                                                                                                       | **Contact Info**      |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| Counseling Services                 | Provides crisis intervention, assessment, referrals, short term individual counseling and group therapy.                              | \(978\) 934-6800      |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| UMatter2                            | University-wide initiative to support students and promote mental health. Includes access to Togetherall peer-to-peer platform.       | \(978\) 934-6671      |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| CLASS Advising                      | Provides advising services including goal setting, course selection, SIS functions, changing majors/minors and course deletions.      | \(978\) 934-2936      |
+|                                     |                                                                                                                                       |                       |
+|                                     |                                                                                                                                       | Advisement\@uml.edu   |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| Office of Student Life & Well-being | Advances holistic student success through health-promoting actions and collaboration into campus culture.                             | \(978\) 934-4342      |
+|                                     |                                                                                                                                       |                       |
+|                                     |                                                                                                                                       | Wellbeing\@uml.edu    |
++-------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+
+**Disability Services**
+
+If you are registered with Disability Services and will require course accommodations, please notify me via the Accommodate request process as soon as possible so that we might make appropriate arrangements. It is important that we connect to discuss the logistics of your accommodations; please speak to me during office hours or privately after class as I respect and want to protect your privacy. If you need further information or need to register for academic accommodations, please visit the [Disability Services Website](https://www.uml.edu/student-services/Disability/).
+
+**Inclusion and Classroom Community Standards**
+
+UMass Lowell - and your professor - value the many forms of human experiences and backgrounds. Enrich yourself by practicing respect in your interactions, and enrich one another by sharing your point of view, knowing that differences will be respected, appreciated, and recognized as a source of strength.
+
+The [Office of Multicultural Affairs (OMA)](https://www.uml.edu/student-services/Multicultural/) supports and advocates for students while leading programs, workshops, and events that foster understanding, equity, and belonging across campus. Students are encouraged to connect with OMA staff for support, to learn about cultural and identity-based student organizations, and to participate in community-building opportunities. Contact (978) 934-4336 or Multicultural_Affairs\@uml.edu
+
+**Academic Integrity Policy**
+
+All students are advised that there is a [University policy regarding academic integrity](https://www.uml.edu/Catalog/Undergraduate/Policies/Academic-Policies/Academic-Integrity.aspx). Academic honesty is essential to maintaining trust in the learning environment and ensuring that all students are evaluated fairly. Students are responsible for the honest completion and representation of their work, and academic dishonesty in any form will not be tolerated. Acts such as plagiarism, cheating, fabrication, or facilitating dishonesty undermine the integrity of the academic community and may result in disciplinary action, up to and including failure of the assignment or course, and referral to the provost’s office and suspension or dismissal in the case of multiple infractions.
+
+We prioritize academic integrity and the authentic demonstration of students' knowledge and skills. Consequently, the use of Artificial Intelligence (AI) tools, including but not limited to generative technologies and similar platforms, is strictly prohibited in completing any coursework, assignments, quizzes, exams or any other form of assessment in this course.
+
+Violations of this policy will be considered academic misconduct and will be subject to disciplinary actions in line with the university's [Academic Integrity](https://www.uml.edu/catalog/undergraduate/policies/academic-policies/academic-integrity.aspx) procedures.
+
+This approach is taken to maintain a fair and equitable learning environment and to encourage the development of critical thinking, problem-solving and academic writing skills without reliance on AI-generated content.
+
+**Cell Phones and Other Devices**
+
+Cell phone, tablet, and laptop usage in this class is permitted, so long as it course related and does not interfere with other students' ability to engage in the course activities.
+
+**University Privacy Statement**
+
+UMass Lowell recognizes the importance of mutual trust between students and faculty. Massachusetts is a two-party consent state, which means it is illegal to record someone without their permission. Recordings of classroom lectures are the intellectual property of the instructor. Instructors have the right to prohibit audio and video recording of their lectures, unless the requesting student is registered with Disabilities Services and recording of class sessions is an approved accommodation. In addition, sharing or selling recordings of classroom activities, discussions or lectures with any other person or medium without permission of the instructor is prohibited, and may result in sanctions for academic dishonesty or referral to the dean’s or provost’s office.
