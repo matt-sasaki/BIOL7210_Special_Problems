@@ -18,7 +18,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "This course will run Tuesdays from 12:30-3pm in Olsen Hall Rm 234. Because of holidays / Monday schedules, however, we won’t be meeting every week - see the schedule below for meeting dates and topics.\n\n\n\nSection\nDate\nTopic\nReadings\n\n\n\n\nExp. Success\nJanuary 27th\nExperimental Design\n\nPaper 1 - Cressman & Sharp 2022 (Stats Plans)\nPaper 2 - Marshall 2024 (Experimental Design)\n\n\n\nExp. Success\nFebruary 3rd\nData Management\n\nPaper 1 - Broman & Woo 2018 (Data in Spreadsheets)\nPaper 2 - Wickham 2014 (Tidy Data)\nArticle - Project Folders in R\nChapter - Frank et al. 2025 (Project Management)\n\n\n\nExp. Success\nFebruary 10th\nPrinciples of Statistics\n\nPaper 1 - Ho et al. 2019 (Estimation Plots)\nPaper 2 - Halsey 2025 (Lack of Effects)\nPaper 3 - Zuur et al. 2010 (Data Exploration)\n\n\n\nExp. Success\nFebruary 17th\nMonday Schedule - No Meeting\n\n\n\nExp. Success\nFebruary 24th\nPresentations / Brainstorming\n\nAssignment\n\n\n\nMixed Effects Models\nMarch 3rd\nMixed Effects Models\n\nPaper 1 - Harrison et al. 2018 (Mixed Effects Models)\nPaper 2 - Silk et al. 2020 (Perils and Pitfalls)\nPaper 3 - Arnqvist 2020 (Degrees of Freedom)\n\n\n\nMixed Effects Models\nMarch 10th\nSpring Break - No Meeting\nInstall R: https://cloud.r-project.org\nInstall RStudio: https://posit.co/download/rstudio-desktop\n\n\nMixed Effects Models\nMarch 17th\nMixed Effects Models in R\n\nData set:\n\n\n\nMixed Effects Models\nMarch 24th\nModel Interpretation\n\n\n\nMixed Effects Models\nMarch 31st\nPresentations\n\nAssignment"
+    "text": "This course will run Tuesdays from 12:30-3pm in Olsen Hall Rm 234. Because of holidays / Monday schedules, however, we won’t be meeting every week - see the schedule below for meeting dates and topics.\n\n\n\nSection\nDate\nTopic\nReadings\n\n\n\n\nExp. Success\nJanuary 27th\nExperimental Design\n\nPaper 1 - Cressman & Sharp 2022 (Stats Plans)\nPaper 2 - Marshall 2024 (Experimental Design)\n\nOther resources\n\nVariable Descriptions Excel File\nTemplate Analysis Plan\n\n\n\nExp. Success\nFebruary 3rd\nData Management\n\nPaper 1 - Broman & Woo 2018 (Data in Spreadsheets)\nPaper 2 - Wickham 2014 (Tidy Data)\nArticle - Project Folders in R\nChapter - Frank et al. 2025 (Project Management)\n\n\n\nExp. Success\nFebruary 10th\nPrinciples of Statistics\n\nPaper 1 - Ho et al. 2019 (Estimation Plots)\nPaper 2 - Halsey 2025 (Lack of Effects)\nPaper 3 - Zuur et al. 2010 (Data Exploration)\n\n\n\nExp. Success\nFebruary 17th\nMonday Schedule - No Meeting\n\n\n\nExp. Success\nFebruary 24th\nPresentations / Brainstorming\n\nAssignment\n\n\n\nMixed Effects Models\nMarch 3rd\nMixed Effects Models\n\nPaper 1 - Harrison et al. 2018 (Mixed Effects Models)\nPaper 2 - Silk et al. 2020 (Perils and Pitfalls)\nPaper 3 - Arnqvist 2020 (Degrees of Freedom)\n\n\n\nMixed Effects Models\nMarch 10th\nSpring Break - No Meeting\nInstall R: https://cloud.r-project.org\nInstall RStudio: https://posit.co/download/rstudio-desktop\n\n\nMixed Effects Models\nMarch 17th\nMixed Effects Models in R\n\nData set:\n\n\n\nMixed Effects Models\nMarch 24th\nModel Interpretation\n\n\n\nMixed Effects Models\nMarch 31st\nPresentations\n\nAssignment"
   },
   {
     "objectID": "syllabus.html",
@@ -61,5 +61,54 @@
     "title": "Syllabus",
     "section": "Absence Policy",
     "text": "Absence Policy\nPlease let me know as far in advance as possible if you are going to miss a meeting. Virtual participation (i.e. via Zoom) will not be regularly available. An excused absence will not negatively affect your grade, but if you are going to miss more than one session, I suggest you consider dropping the course."
+  },
+  {
+    "objectID": "materials/resources/analysis_plan_template.html",
+    "href": "materials/resources/analysis_plan_template.html",
+    "title": "Project Analysis Plan",
+    "section": "",
+    "text": "This document should be used to outline the analysis plan for a project. It is most useful for this to be completed in full before a project is officially started, but may benefit from information obtained during preliminary trials."
+  },
+  {
+    "objectID": "materials/resources/analysis_plan_template.html#project-description",
+    "href": "materials/resources/analysis_plan_template.html#project-description",
+    "title": "Project Analysis Plan",
+    "section": "",
+    "text": "This document should be used to outline the analysis plan for a project. It is most useful for this to be completed in full before a project is officially started, but may benefit from information obtained during preliminary trials."
+  },
+  {
+    "objectID": "materials/resources/analysis_plan_template.html#questions-objectives-hypotheses",
+    "href": "materials/resources/analysis_plan_template.html#questions-objectives-hypotheses",
+    "title": "Project Analysis Plan",
+    "section": "Questions, Objectives, Hypotheses",
+    "text": "Questions, Objectives, Hypotheses\nThis section should list all of the questions and objectives for the project. Remember to keep them SMART:\n\nSpecific\nMeasurable\nAssignable (who’s going to do the work?)\nRealistic\nTime-bounded\n\nIt is also helpful to number the questions / objectives."
+  },
+  {
+    "objectID": "materials/resources/analysis_plan_template.html#variable-descriptions",
+    "href": "materials/resources/analysis_plan_template.html#variable-descriptions",
+    "title": "Project Analysis Plan",
+    "section": "Variable Descriptions",
+    "text": "Variable Descriptions\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariable Name\nVariable Description\nResponse or Explanatory?\nRelevant Question or Objective\nData Type\nUnits\nExpected Range\nHow are zeros and missing data recorded?\n\n\n\n\nShort but descriptive name\nThorough description of the variable\nAKA dependent or independent\nWhich of the stated research questions or objectives is this related to?\nNumeric, categorical, ordinal factor, etc.\nUnits values are recorded in\nIf known - can be approximate\nImportant - no empty cells in the data files"
+  },
+  {
+    "objectID": "materials/resources/analysis_plan_template.html#study-design",
+    "href": "materials/resources/analysis_plan_template.html#study-design",
+    "title": "Project Analysis Plan",
+    "section": "Study Design",
+    "text": "Study Design\nThis section should provide a detailed description of the study design. In addition to protocols and methodological details, this section should include a detailed accounting of replication and sample sizes.\nConsider including a schematic or diagram. This could be an embedded image, or an encoded diagram (e.g. Quarto includes native support for mermaid diagrams)."
+  },
+  {
+    "objectID": "materials/resources/analysis_plan_template.html#statistics",
+    "href": "materials/resources/analysis_plan_template.html#statistics",
+    "title": "Project Analysis Plan",
+    "section": "Statistics",
+    "text": "Statistics\n\nData Processing\nYou may need to ‘clean’ the data after collection. This section should describe (and explain the utility of) any planned transformations, filtering, etc.\n\n\nKey Summary Statistics\nThis section will typically be short. What are the main summary statistics of interest (e.g. mean and standard error, coefficient of variation, etc.), and for which groups will you calculate these values?\n\n\nStatistical Tests of Hypotheses\nThe main statistics section will outline the statistical analyses planned and how they will be interpreted to test the stated hypotheses. This includes tests of assumptions, how model fit will be evaluated, any post-hoc tests that could be needed, etc. This section should also include a brief description of any non-standard analyses, and any caveats or expected places where caution will be warranted when interpreting or extrapolating the results. Throughout this section, it is critical that the analyses described are clearly linked to the questions and hypotheses proposed above.\nThis section should also describe how missing values will be handled. If planned analyses are robust to missing values, state that in this section - it can be helpful to have a reminder of this after data is collected.\n\n\nAlternative Approaches\nThis section should outline potential alternative approaches that could be needed (e.g. when assumptions of planned analyses are not met)."
+  },
+  {
+    "objectID": "materials/resources/analysis_plan_template.html#key-figures",
+    "href": "materials/resources/analysis_plan_template.html#key-figures",
+    "title": "Project Analysis Plan",
+    "section": "Key Figures",
+    "text": "Key Figures\nThis section is relatively speculative. It can, however, be helpful to have a section where you outline the expected tables and figures that might be important to display based on the planned questions, analyses, hypotheses, etc."
   }
 ]

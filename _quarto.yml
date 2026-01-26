@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "!/materials/resources"
+  resources:
+    - "materials/**" 
 
 website:
   title: "BIOL.7210 - Special Problems in Biology (Spring 2026)"
