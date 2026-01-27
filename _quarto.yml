@@ -2,9 +2,10 @@ project:
   type: website
   output-dir: docs
   render:
+    - "*.qmd"
     - "!/materials/resources"
   resources:
-    - "materials/**" 
+    - "materials/analysis_plan_template.qmd" 
 
 website:
   title: "BIOL.7210 - Special Problems in Biology (Spring 2026)"
